@@ -1,0 +1,15 @@
+{
+  "name": "agentic-ai-corp",
+  "version": "1.0.0",
+  "description": "Agentic AI Corporate Framework - All AI Agents",
+  "main": "api/server.js",
+  "scripts": {
+    "dev": "node api/server.js",
+    "start": "node api/server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.0",
+    "mongoose": "^6.0.0",
+    "dotenv": "^10.0.0"
+  }
+}

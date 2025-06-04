@@ -1,0 +1,2 @@
+# Copy this file to .env and fill in your MongoDB connection string
+MONGODB_URI=mongodb+srv://<username>:<password>@cluster0.mongodb.net/agentic-ai?retryWrites=true&w=majority
